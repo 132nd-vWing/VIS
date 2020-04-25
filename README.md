@@ -3,7 +3,7 @@ Virtual Intelligence Service (VIS)
 <br>
 <br>
 <br>
-<br>
+# Basic Intelligence (relevant for all operations, trainings)
 <br>
 <br>
 ## Published products
@@ -29,16 +29,20 @@ Virtual Intelligence Service (VIS)
 <br>
 <br>
 
-## OP Urgent Fury
+# OP Urgent Fury
+<br>
+<br>
+## Intelligence Reports
 - OPUF Intelligence Report 001
 - OPUF Intelligence Report 002 
 <br>
 <br>
+<br>
 ## BDA Reports
 
-|From      | When     | Where      | What             | Remarks|
-|----      | -------- | ----       | -------          | ------                                   |
-|BEAST 1-1 | MSN 18   | Killbox GD | 2x SA-15 spotted | Active 3 minutes, then cold for  minutes |
+|From      | When     | Where      | What             | Remarks| Pictures |
+|----      | -------- | ----       | -------          | ------                                   | ---- |
+|BEAST 1-1 | MSN 18   | Killbox GD | 2x SA-15 spotted | Active 3 minutes, then cold for  minutes | N/A |
 
 <br>
 <br>
