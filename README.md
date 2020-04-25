@@ -22,11 +22,13 @@ Virtual Intelligence Service (VIS)
 ---- | -------- | ---- | ------- | ------ |
 |RFI 20-001 | Neck | Basic intelligence | What is the aquisition time for the various SAMs? | Not started |
 |RFI 20-0012 | Neck | Basic intelligenc2e | What is the aquisition time for the v2arious SAMs? | Not s2tarted |
+|RFI 20-0012 | Neck | Basic intelligenc2e | What is the aquisition time for the v2arious SAMs? | [Answered RFI20-003](/VIS/OPUF/RFI/RFI20-002.html) |
 
 
 ## Test 2
-|Number | From | Type | Question | Status |
-|RFI 20-002 | Neck | OPUF | Where are the SA-10s located | [Answered RFI20-002](/VIS/OPUF/RFI/RFI20-002.html) |
+Number | From | Type | Question | Status |
+---- | -------- | ---- | ------- | ------ |
+RFI 20-002 | Neck | OPUF | Where are the SA-10s located | [Answered RFI20-002](/VIS/OPUF/RFI/RFI20-002.html) |
 <br>
 <br>
 <br>
