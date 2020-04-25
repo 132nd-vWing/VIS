@@ -26,7 +26,7 @@ Virtual Intelligence Service (VIS)
 
 ## Test 2
 |Number | From | Type | Question | Status |
-|RFI 20-002 | Neck | OPUF | Where are the SA-10s located | [Answered RFI20-002](/VIS/OPUF/RFI/RFI20-002.html)|
+|RFI 20-002 | Neck | OPUF | Where are the SA-10s located | [Answered RFI20-002](/VIS/OPUF/RFI/RFI20-002.html) |
 <br>
 <br>
 <br>
