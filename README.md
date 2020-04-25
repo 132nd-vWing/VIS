@@ -35,7 +35,8 @@ Virtual Intelligence Service (VIS)
 <br>
 <br>
 ## BDA Reports
-|From | When | Where | What | Remarks|
+
+|From      | When     | Where      | What             | Remarks|
 |----      | -------- | ----       | -------          | ------                                   |
 |BEAST 1-1 | MSN 18   | Killbox GD | 2x SA-15 spotted | Active 3 minutes, then cold for  minutes |
 
