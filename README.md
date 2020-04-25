@@ -33,7 +33,7 @@ OP Urgent Fury  (OPUF) is a operation taking place in the Persian Gulf region. F
 <br>
 ## Intelligence Reports
 - OPUF Intelligence Report 001
-- OPUF Intelligence Report 002 
+- [INTEL MSN 18](/VIS/OPUF/PRODUCTS/OPERATION URGENT FURY - INTEL REPORT FOR MSN18.pdf)
 <br>
 <br>
 <br>
