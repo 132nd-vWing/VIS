@@ -19,7 +19,7 @@ Virtual Intelligence Service (VIS)
 ## Request for information
 
 |Number | From | Type | Question | Status |
----- | -------- | ---- | ------- | ------ |
+|---- | -------- | ---- | ------- | ------ |
 |RFI 20-001 | Neck | Basic intelligence | What is the aquisition time for the various SAMs? | Not started |
 |RFI 20-002 | Neck | OPUF | Where are the SA-10s located | [Answered RFI20-003](/VIS/OPUF/RFI/RFI20-002.html) |
 <br>
@@ -35,8 +35,8 @@ Virtual Intelligence Service (VIS)
 <br>
 ## BDA Reports
 |From | When | Where | What | Remarks|
-|---- | -------- | ---- | ------- | ------ |
-BEAST 1-1 | MSN 18 | Killbox GD | 2x SA-15 spotted | Active 3 minutes, then cold for  minutes |
+|----      | -------- | ----       | -------          | ------                                   |
+|BEAST 1-1 | MSN 18   | Killbox GD | 2x SA-15 spotted | Active 3 minutes, then cold for  minutes |
 <br>
 <br>
 <br>
