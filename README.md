@@ -1,9 +1,10 @@
-# VIS
-Virtual Intelligence Service (VIS)
+# VIRTUAL INTELLIGENCE SERVICE (VIS)
+Virtual Intelligence Service (VIS) is the fictional organization handling all intelligence for 132nd hosted events.
 <br>
 <br>
 <br>
-# Basic Intelligence (relevant for all operations, trainings)
+# Basic Intelligence 
+Basic intelligence is the information that is relevant for all operations. This can be items such as ranges, aqusition times, etc. 
 <br>
 <br>
 ## Published products
@@ -13,9 +14,7 @@ Virtual Intelligence Service (VIS)
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 ## Request for information
 
 |Number | From | Type | Question | Status |
@@ -30,7 +29,7 @@ Virtual Intelligence Service (VIS)
 <br>
 
 # OP Urgent Fury
-<br>
+OP Urgent Fury  (OPUF) is a operation taking place in the Persian Gulf region. Full out war.
 <br>
 ## Intelligence Reports
 - OPUF Intelligence Report 001
@@ -47,8 +46,24 @@ Virtual Intelligence Service (VIS)
 <br>
 <br>
 <br>
-## OP Red Frost
-TBD
+<br>
+<br>
+<br>
+# OP Red Frost
+OP Red Frost is a operation taking place in the Caucasus region Full out war.
+<br>
+## Intelligence Reports
+- Red Frost Intelligence Report 001
+- Red Frost Intelligence Report 002 
+<br>
+<br>
+<br>
+## BDA Reports
+
+|From      | When     | Where      | What             | Remarks| Pictures |
+|----      | -------- | ----       | -------          | ------                                   | ---- |
+|AXE 1-1 | MSN 2   | N23 45 679 E099 12 345 | 2x SCUDs destroyed | NSTR| N/A |
+
 <br>
 <br>
 <br>
